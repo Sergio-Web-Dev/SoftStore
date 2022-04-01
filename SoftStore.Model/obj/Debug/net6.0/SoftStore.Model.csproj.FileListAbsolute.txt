@@ -1,0 +1,11 @@
+D:\Projects\netcore\SoftStore\SoftSTore.Model\bin\Debug\net6.0\SoftStore.Model.deps.json
+D:\Projects\netcore\SoftStore\SoftSTore.Model\bin\Debug\net6.0\SoftStore.Model.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Model\bin\Debug\net6.0\ref\SoftStore.Model.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Model\bin\Debug\net6.0\SoftStore.Model.pdb
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.AssemblyInfoInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.AssemblyInfo.cs
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.csproj.CoreCompileInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\ref\SoftStore.Model.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Model\obj\Debug\net6.0\SoftStore.Model.pdb

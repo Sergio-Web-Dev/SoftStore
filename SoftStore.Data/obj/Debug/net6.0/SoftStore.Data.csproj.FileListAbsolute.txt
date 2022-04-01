@@ -1,0 +1,12 @@
+D:\Projects\netcore\SoftStore\SoftSTore.Data\bin\Debug\net6.0\SoftStore.Data.deps.json
+D:\Projects\netcore\SoftStore\SoftSTore.Data\bin\Debug\net6.0\SoftStore.Data.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Data\bin\Debug\net6.0\ref\SoftStore.Data.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Data\bin\Debug\net6.0\SoftStore.Data.pdb
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.csproj.AssemblyReference.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.AssemblyInfoInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.AssemblyInfo.cs
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.csproj.CoreCompileInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\ref\SoftStore.Data.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Data\obj\Debug\net6.0\SoftStore.Data.pdb

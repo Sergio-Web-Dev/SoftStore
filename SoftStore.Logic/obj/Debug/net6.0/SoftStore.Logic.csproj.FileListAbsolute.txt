@@ -1,0 +1,11 @@
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\bin\Debug\net6.0\SoftStore.Logic.deps.json
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\bin\Debug\net6.0\SoftStore.Logic.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\bin\Debug\net6.0\ref\SoftStore.Logic.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\bin\Debug\net6.0\SoftStore.Logic.pdb
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.AssemblyInfoInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.AssemblyInfo.cs
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.csproj.CoreCompileInputs.cache
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\ref\SoftStore.Logic.dll
+D:\Projects\netcore\SoftStore\SoftSTore.Logic\obj\Debug\net6.0\SoftStore.Logic.pdb
